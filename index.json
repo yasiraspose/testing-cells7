@@ -131,6 +131,11 @@
     },
     {
       "category": "timeline",
+      "file": "create-a-timeline-representation-of-the-data-and-export-it-into-an-xls-spreadshe.cs",
+      "title": "Create a timeline representation of the data and export it into an XLS spreadsheet for further analysis."
+    },
+    {
+      "category": "timeline",
       "file": "create-and-embed-a-timeline-into-an-xlsx-workbook-using-appropriate-worksheet-st.cs",
       "title": "Create and embed a timeline into an XLSX workbook using appropriate worksheet structures and formatting."
     },
