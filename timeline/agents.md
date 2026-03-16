@@ -75,3 +75,4 @@ Output files are written to the working directory.
 - insert-a-timeline-into-a-worksheet-employing-the-numbers-format-while-maintainin.cs
 - add-a-timeline-visualization-to-a-spreadsheet-by-programmatically-inserting-it-i.cs
 - add-a-timeline-element-to-a-document-by-importing-data-in-the-fods-file-format.cs
+- insert-a-timeline-chart-into-the-workbook-by-importing-data-from-a-dif-file.cs
