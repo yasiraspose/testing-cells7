@@ -121,6 +121,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-and-embed-a-timeline-into-the-document-outputting-the-result-in-prn-pri.cs",
+      "title": "Generate and embed a timeline into the document, outputting the result in PRN printer format."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-chart-into-the-workbook-by-importing-data-from-a-dif-file.cs",
       "title": "Insert a timeline chart into the workbook by importing data from a DIF file."
     },
