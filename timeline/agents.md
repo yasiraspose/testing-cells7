@@ -77,3 +77,4 @@ Output files are written to the working directory.
 - add-a-timeline-element-to-a-document-by-importing-data-in-the-fods-file-format.cs
 - insert-a-timeline-chart-into-the-workbook-by-importing-data-from-a-dif-file.cs
 - insert-a-timeline-into-a-dbf-file-ensuring-correct-mapping-of-date-fields-and-ch.cs
+- generate-and-embed-a-timeline-into-the-document-outputting-the-result-in-prn-pri.cs
