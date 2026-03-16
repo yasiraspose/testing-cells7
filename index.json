@@ -56,6 +56,11 @@
     },
     {
       "category": "timeline",
+      "file": "add-a-sparkline-chart-to-an-xls-workbook-programmatically-ensuring-proper-cell-r.cs",
+      "title": "Add a sparkline chart to an XLS workbook programmatically, ensuring proper cell referencing and rendering."
+    },
+    {
+      "category": "timeline",
       "file": "add-a-timeline-chart-to-an-existing-xls-worksheet-enabling-dynamic-datebased-dat.cs",
       "title": "Add a timeline chart to an existing XLS worksheet, enabling dynamic date\u2011based data visualization."
     },
