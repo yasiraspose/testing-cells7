@@ -10,6 +10,11 @@
       "title": "Remove Threaded Comments in a workbook loaded in XLSX format."
     },
     {
+      "category": "comments-and-notes",
+      "file": "remove-threaded-comments-with-excel-in-a-workbook-loaded-in-xlsx-format.cs",
+      "title": "Remove Threaded Comments with Excel in a workbook loaded in XLSX format."
+    },
+    {
       "category": "conversion",
       "file": "convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs",
       "title": "Convert an Excel workbook to PDF using XLSX as the input and PDF as the output."
