@@ -61,6 +61,11 @@
     },
     {
       "category": "timeline",
+      "file": "add-a-timeline-to-a-spreadsheet-by-generating-an-ods-file-with-appropriate-chart.cs",
+      "title": "Add a timeline to a spreadsheet by generating an ODS file with appropriate chart data and formatting."
+    },
+    {
+      "category": "timeline",
       "file": "add-a-timeline-to-a-worksheet-by-loading-and-inserting-an-xltx-template-file.cs",
       "title": "Add a timeline to a worksheet by loading and inserting an XLTX template file."
     },
