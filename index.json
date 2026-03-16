@@ -91,6 +91,11 @@
     },
     {
       "category": "timeline",
+      "file": "embed-a-timeline-into-a-document-by-generating-and-inserting-an-mht-file-with-ap.cs",
+      "title": "Embed a timeline into a document by generating and inserting an MHT file with appropriate markup."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-a-document-using-a-plaintext-txt-file-as-the-data-source.cs",
       "title": "Insert a timeline into a document using a plain\u2011text (TXT) file as the data source."
     },
