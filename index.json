@@ -166,6 +166,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-a-chronological-timeline-representation-of-data-and-serialize-it-into-a.cs",
+      "title": "Generate a chronological timeline representation of data and serialize it into a SpreadsheetML formatted document."
+    },
+    {
+      "category": "timeline",
       "file": "generate-a-plaintext-timeline-representation-of-data-and-write-it-to-a-txt-file-.cs",
       "title": "Generate a plain\u2011text timeline representation of data and write it to a TXT file for consumption."
     },
