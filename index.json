@@ -101,6 +101,11 @@
     },
     {
       "category": "timeline",
+      "file": "embed-a-timeline-into-the-spreadsheet-by-parsing-and-applying-an-xml-formatted-d.cs",
+      "title": "Embed a timeline into the spreadsheet by parsing and applying an XML-formatted definition file."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-a-document-using-a-plaintext-txt-file-as-the-data-source.cs",
       "title": "Insert a timeline into a document using a plain\u2011text (TXT) file as the data source."
     },
