@@ -68,3 +68,4 @@ Output files are written to the working directory.
 - insert-a-timeline-into-a-document-using-a-plaintext-txt-file-as-the-data-source.cs
 - create-a-timeline-in-a-worksheet-by-importing-data-formatted-as-tab-delimited-te.cs
 - insert-a-timeline-into-the-spreadsheet-using-html-formatted-markup-ensuring-prop.cs
+- embed-a-timeline-into-a-document-by-generating-and-inserting-an-mht-file-with-ap.cs
