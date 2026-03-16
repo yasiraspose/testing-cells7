@@ -221,6 +221,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-and-print-the-application-timeline-as-a-jsonformatted-string-ensuring-p.cs",
+      "title": "Generate and print the application timeline as a JSON\u2011formatted string, ensuring proper structure and data integrity."
+    },
+    {
+      "category": "timeline",
       "file": "implement-functionality-that-outputs-a-chronological-timeline-in-csv-format-ensu.cs",
       "title": "Implement functionality that outputs a chronological timeline in CSV format, ensuring correct delimiter placement and appropriate header naming."
     },
