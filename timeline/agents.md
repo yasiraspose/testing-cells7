@@ -96,3 +96,4 @@ Output files are written to the working directory.
 - generate-a-timeline-output-serialized-in-tabseparated-values-tsv-format-for-cons.cs
 - generate-a-plaintext-timeline-representation-of-data-and-write-it-to-a-txt-file-.cs
 - render-a-timeline-as-tabdelimited-output-suitable-for-console-display-or-file-ex.cs
+- render-a-chronological-timeline-into-html-markup-for-dynamic-integration-within-.cs
