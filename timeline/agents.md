@@ -107,3 +107,4 @@ Output files are written to the working directory.
 - generate-a-chronological-timeline-and-output-it-as-a-dbf-file-for-subsequent-dat.cs
 - generate-a-prn-formatted-printout-of-the-timeline-data-while-preserving-layout-f.cs
 - render-a-chronological-timeline-as-a-pdf-document-accurately-preserving-layout-a.cs
+- generate-and-print-the-application-timeline-as-a-jsonformatted-string-ensuring-p.cs
