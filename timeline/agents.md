@@ -90,3 +90,4 @@ Output files are written to the working directory.
 - export-the-project-timeline-as-an-xlsx-worksheet-preserving-date-ordering-and-hi.cs
 - render-a-project-timeline-and-output-it-as-an-xltx-formatted-excel-workbook-temp.cs
 - generate-and-output-a-timeline-as-an-xltm-template-file-preserving-all-formattin.cs
+- export-the-timeline-data-to-an-xlsb-workbook-ensuring-proper-cell-formatting-and.cs
