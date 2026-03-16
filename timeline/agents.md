@@ -60,3 +60,4 @@ Output files are written to the working directory.
 - add-a-timeline-chart-to-an-existing-xls-worksheet-enabling-dynamic-datebased-dat.cs
 - create-and-embed-a-timeline-into-an-xlsx-workbook-using-appropriate-worksheet-st.cs
 - add-a-timeline-to-an-xlsm-workbook-programmatically-ensuring-proper-formatting-a.cs
+- add-a-timeline-to-a-worksheet-by-loading-and-inserting-an-xltx-template-file.cs
