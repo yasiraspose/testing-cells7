@@ -181,6 +181,11 @@
     },
     {
       "category": "timeline",
+      "file": "implement-functionality-that-outputs-a-chronological-timeline-in-csv-format-ensu.cs",
+      "title": "Implement functionality that outputs a chronological timeline in CSV format, ensuring correct delimiter placement and appropriate header naming."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-chart-into-the-workbook-by-importing-data-from-a-dif-file.cs",
       "title": "Insert a timeline chart into the workbook by importing data from a DIF file."
     },
