@@ -126,6 +126,11 @@
     },
     {
       "category": "timeline",
+      "file": "convert-timeline-data-from-one-xlsx-workbook-to-another-xlsx-workbook-while-pres.cs",
+      "title": "Convert timeline data from one XLSX workbook to another XLSX workbook while preserving all formatting and cell relationships."
+    },
+    {
+      "category": "timeline",
       "file": "create-a-timeline-in-a-worksheet-by-importing-data-formatted-as-tab-delimited-te.cs",
       "title": "Create a timeline in a worksheet by importing data formatted as TAB-delimited text file."
     },
