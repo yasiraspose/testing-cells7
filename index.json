@@ -181,6 +181,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-an-xml-formatted-timeline-output-that-accurately-represents-chronologic.cs",
+      "title": "Generate an XML-formatted timeline output that accurately represents chronological events and associated data for downstream processing."
+    },
+    {
+      "category": "timeline",
       "file": "generate-and-embed-a-timeline-into-the-document-outputting-the-result-in-prn-pri.cs",
       "title": "Generate and embed a timeline into the document, outputting the result in PRN printer format."
     },
