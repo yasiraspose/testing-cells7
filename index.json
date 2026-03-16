@@ -161,6 +161,11 @@
     },
     {
       "category": "timeline",
+      "file": "export-the-timeline-data-to-an-xlsb-workbook-ensuring-proper-cell-formatting-and.cs",
+      "title": "Export the timeline data to an XLSB workbook, ensuring proper cell formatting and structure."
+    },
+    {
+      "category": "timeline",
       "file": "generate-and-embed-a-timeline-into-the-document-outputting-the-result-in-prn-pri.cs",
       "title": "Generate and embed a timeline into the document, outputting the result in PRN printer format."
     },
