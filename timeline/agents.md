@@ -95,3 +95,4 @@ Output files are written to the working directory.
 - implement-functionality-that-outputs-a-chronological-timeline-in-csv-format-ensu.cs
 - generate-a-timeline-output-serialized-in-tabseparated-values-tsv-format-for-cons.cs
 - generate-a-plaintext-timeline-representation-of-data-and-write-it-to-a-txt-file-.cs
+- render-a-timeline-as-tabdelimited-output-suitable-for-console-display-or-file-ex.cs
