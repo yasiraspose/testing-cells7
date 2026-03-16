@@ -141,6 +141,11 @@
     },
     {
       "category": "timeline",
+      "file": "insert-a-timeline-into-a-pdf-file-programmatically-ensuring-correct-placement-an.cs",
+      "title": "Insert a timeline into a PDF file programmatically, ensuring correct placement and visual fidelity."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-a-worksheet-employing-the-numbers-format-while-maintainin.cs",
       "title": "Insert a timeline into a worksheet employing the NUMBERS format while maintaining existing data integrity."
     },
