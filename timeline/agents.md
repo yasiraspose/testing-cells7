@@ -79,3 +79,4 @@ Output files are written to the working directory.
 - insert-a-timeline-into-a-dbf-file-ensuring-correct-mapping-of-date-fields-and-ch.cs
 - generate-and-embed-a-timeline-into-the-document-outputting-the-result-in-prn-pri.cs
 - insert-a-timeline-into-a-pdf-file-programmatically-ensuring-correct-placement-an.cs
+- insert-a-timeline-into-the-worksheet-by-programmatically-providing-its-definitio.cs
