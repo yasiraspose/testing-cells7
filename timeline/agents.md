@@ -108,3 +108,4 @@ Output files are written to the working directory.
 - generate-a-prn-formatted-printout-of-the-timeline-data-while-preserving-layout-f.cs
 - render-a-chronological-timeline-as-a-pdf-document-accurately-preserving-layout-a.cs
 - generate-and-print-the-application-timeline-as-a-jsonformatted-string-ensuring-p.cs
+- transform-a-timeline-spreadsheet-from-xls-to-xlsx-format-ensuring-data-integrity.cs
