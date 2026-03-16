@@ -318,6 +318,11 @@
       "category": "timeline",
       "file": "transform-a-timeline-spreadsheet-from-xls-to-xlsx-format-ensuring-data-integrity.cs",
       "title": "Transform a timeline spreadsheet from XLS to XLSX format, ensuring data integrity and layout retention."
+    },
+    {
+      "category": "timeline",
+      "file": "transform-a-timeline-workbook-from-xlsm-macro-enabled-format-to-a-standard-xlsx-.cs",
+      "title": "Transform a timeline workbook from XLSM macro-enabled format to a standard XLSX file, preserving data integrity."
     }
   ]
 }
