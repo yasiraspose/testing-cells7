@@ -98,3 +98,4 @@ Output files are written to the working directory.
 - render-a-timeline-as-tabdelimited-output-suitable-for-console-display-or-file-ex.cs
 - render-a-chronological-timeline-into-html-markup-for-dynamic-integration-within-.cs
 - render-the-timeline-to-an-mhtml-file-preserving-layout-styling-and-interactive-e.cs
+- generate-an-xml-formatted-timeline-output-that-accurately-represents-chronologic.cs
