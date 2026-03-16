@@ -80,3 +80,4 @@ Output files are written to the working directory.
 - generate-and-embed-a-timeline-into-the-document-outputting-the-result-in-prn-pri.cs
 - insert-a-timeline-into-a-pdf-file-programmatically-ensuring-correct-placement-an.cs
 - insert-a-timeline-into-the-worksheet-by-programmatically-providing-its-definitio.cs
+- add-a-sparkline-chart-to-an-xls-workbook-programmatically-ensuring-proper-cell-r.cs
