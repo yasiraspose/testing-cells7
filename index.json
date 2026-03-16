@@ -321,6 +321,11 @@
     },
     {
       "category": "timeline",
+      "file": "transform-a-timeline-stored-in-an-xltm-template-into-an-xlsx-workbook-while-main.cs",
+      "title": "Transform a timeline stored in an XLTM template into an XLSX workbook while maintaining data integrity."
+    },
+    {
+      "category": "timeline",
       "file": "transform-a-timeline-workbook-from-xlsm-macro-enabled-format-to-a-standard-xlsx-.cs",
       "title": "Transform a timeline workbook from XLSM macro-enabled format to a standard XLSX file, preserving data integrity."
     },
