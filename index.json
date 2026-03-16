@@ -243,6 +243,11 @@
       "category": "timeline",
       "file": "render-a-project-timeline-and-output-it-as-an-xltx-formatted-excel-workbook-temp.cs",
       "title": "Render a project timeline and output it as an XLTX formatted Excel workbook template."
+    },
+    {
+      "category": "timeline",
+      "file": "render-a-timeline-as-tabdelimited-output-suitable-for-console-display-or-file-ex.cs",
+      "title": "Render a timeline as tab\u2011delimited output suitable for console display or file export, preserving order."
     }
   ]
 }
