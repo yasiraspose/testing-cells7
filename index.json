@@ -61,6 +61,11 @@
     },
     {
       "category": "timeline",
+      "file": "add-a-sparkline-to-an-xlsx-workbook-configuring-its-data-range-and-visual-proper.cs",
+      "title": "Add a sparkline to an XLSX workbook, configuring its data range and visual properties."
+    },
+    {
+      "category": "timeline",
       "file": "add-a-timeline-chart-to-an-existing-xls-worksheet-enabling-dynamic-datebased-dat.cs",
       "title": "Add a timeline chart to an existing XLS worksheet, enabling dynamic date\u2011based data visualization."
     },
