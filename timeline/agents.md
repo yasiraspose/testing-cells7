@@ -110,3 +110,4 @@ Output files are written to the working directory.
 - generate-and-print-the-application-timeline-as-a-jsonformatted-string-ensuring-p.cs
 - transform-a-timeline-spreadsheet-from-xls-to-xlsx-format-ensuring-data-integrity.cs
 - convert-timeline-data-from-one-xlsx-workbook-to-another-xlsx-workbook-while-pres.cs
+- transform-a-timeline-workbook-from-xlsm-macro-enabled-format-to-a-standard-xlsx-.cs
