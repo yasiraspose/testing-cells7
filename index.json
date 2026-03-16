@@ -58,6 +58,11 @@
       "category": "timeline",
       "file": "add-a-timeline-chart-to-an-existing-xls-worksheet-enabling-dynamic-datebased-dat.cs",
       "title": "Add a timeline chart to an existing XLS worksheet, enabling dynamic date\u2011based data visualization."
+    },
+    {
+      "category": "timeline",
+      "file": "create-and-embed-a-timeline-into-an-xlsx-workbook-using-appropriate-worksheet-st.cs",
+      "title": "Create and embed a timeline into an XLSX workbook using appropriate worksheet structures and formatting."
     }
   ]
 }
