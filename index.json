@@ -41,6 +41,11 @@
     },
     {
       "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-reviewing-console-output-of-cellformulalocal-implementat.cs",
+      "title": "Localize spreadsheet by reviewing console output of Cell.FormulaLocal implementation using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
       "file": "localize-spreadsheet-by-running-sample-code-for-cellformulalocal-implementation-.cs",
       "title": "Localize spreadsheet by running sample code for Cell.FormulaLocal implementation using a workbook loaded in XLSX format."
     }
