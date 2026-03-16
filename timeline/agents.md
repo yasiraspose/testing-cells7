@@ -93,3 +93,4 @@ Output files are written to the working directory.
 - export-the-timeline-data-to-an-xlsb-workbook-ensuring-proper-cell-formatting-and.cs
 - generate-a-timeline-visualization-and-export-it-as-an-ods-spreadsheet-file-for-f.cs
 - implement-functionality-that-outputs-a-chronological-timeline-in-csv-format-ensu.cs
+- generate-a-timeline-output-serialized-in-tabseparated-values-tsv-format-for-cons.cs
