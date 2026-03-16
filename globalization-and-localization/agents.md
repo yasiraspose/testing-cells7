@@ -1,0 +1,64 @@
+# Globalization and Localization Examples
+
+This folder contains **Aspose.Cells for .NET** code examples related to:
+
+Globalization and Localization
+
+---
+
+## Purpose
+
+These examples demonstrate common **Aspose.Cells APIs** used when working with:
+
+- Workbooks
+- Worksheets
+- Cells
+- Formulas
+- Charts
+- Data operations
+
+---
+
+## Example Files
+
+Each `.cs` file demonstrates a specific task related to **Globalization and Localization**.
+
+Example:
+
+create-a-workbook.cs
+
+---
+
+## Required Namespaces
+
+Most examples will require:
+
+using Aspose.Cells;
+
+---
+
+## Common Pattern
+
+Typical Aspose.Cells workflow:
+
+Workbook workbook = new Workbook();
+Worksheet sheet = workbook.Worksheets[0];
+Cells cells = sheet.Cells;
+
+---
+
+## Output
+
+Examples may generate:
+
+- XLSX files
+- PDF files
+- CSV files
+- Images
+
+Output files are written to the working directory.
+- localize-spreadsheet-by-implementing-cellformulalocal-similar-to-excel-vba-range.cs
+- localize-spreadsheet-by-exploring-possible-usage-scenarios-for-formulalocal-loca.cs
+- localize-spreadsheet-by-running-sample-code-for-cellformulalocal-implementation-.cs
+- localize-spreadsheet-by-reviewing-console-output-of-cellformulalocal-implementat.cs
+- localize-spreadsheet-by-implementing-error-and-boolean-value-localization-for-ru.cs
