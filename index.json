@@ -308,6 +308,11 @@
       "category": "timeline",
       "file": "render-the-timeline-to-an-mhtml-file-preserving-layout-styling-and-interactive-e.cs",
       "title": "Render the timeline to an MHTML file, preserving layout, styling, and interactive elements for web\u2011friendly viewing."
+    },
+    {
+      "category": "timeline",
+      "file": "transform-a-timeline-spreadsheet-from-xls-to-xlsx-format-ensuring-data-integrity.cs",
+      "title": "Transform a timeline spreadsheet from XLS to XLSX format, ensuring data integrity and layout retention."
     }
   ]
 }
