@@ -97,3 +97,4 @@ Output files are written to the working directory.
 - generate-a-plaintext-timeline-representation-of-data-and-write-it-to-a-txt-file-.cs
 - render-a-timeline-as-tabdelimited-output-suitable-for-console-display-or-file-ex.cs
 - render-a-chronological-timeline-into-html-markup-for-dynamic-integration-within-.cs
+- render-the-timeline-to-an-mhtml-file-preserving-layout-styling-and-interactive-e.cs
