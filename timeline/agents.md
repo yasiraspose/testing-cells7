@@ -74,3 +74,4 @@ Output files are written to the working directory.
 - add-a-timeline-to-a-workbook-by-embedding-spreadsheetml-markup-adhering-to-the-a.cs
 - insert-a-timeline-into-a-worksheet-employing-the-numbers-format-while-maintainin.cs
 - add-a-timeline-visualization-to-a-spreadsheet-by-programmatically-inserting-it-i.cs
+- add-a-timeline-element-to-a-document-by-importing-data-in-the-fods-file-format.cs
