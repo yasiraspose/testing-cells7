@@ -41,6 +41,11 @@
     },
     {
       "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-implementing-error-and-boolean-value-localization-for-ru.cs",
+      "title": "Localize spreadsheet by implementing error and Boolean value localization for Russian or other languages using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
       "file": "localize-spreadsheet-by-reviewing-console-output-of-cellformulalocal-implementat.cs",
       "title": "Localize spreadsheet by reviewing console output of Cell.FormulaLocal implementation using a workbook loaded in XLSX format."
     },
