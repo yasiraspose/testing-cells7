@@ -59,3 +59,4 @@ Examples may generate:
 Output files are written to the working directory.
 - localize-spreadsheet-by-implementing-cellformulalocal-similar-to-excel-vba-range.cs
 - localize-spreadsheet-by-exploring-possible-usage-scenarios-for-formulalocal-loca.cs
+- localize-spreadsheet-by-running-sample-code-for-cellformulalocal-implementation-.cs
