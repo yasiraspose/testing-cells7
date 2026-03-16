@@ -86,6 +86,11 @@
     },
     {
       "category": "timeline",
+      "file": "insert-a-timeline-into-a-document-using-a-plaintext-txt-file-as-the-data-source.cs",
+      "title": "Insert a timeline into a document using a plain\u2011text (TXT) file as the data source."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-a-worksheet-utilizing-tsv-formatted-data-to-define-events.cs",
       "title": "Insert a timeline into a worksheet utilizing TSV-formatted data to define events and timestamps."
     },
