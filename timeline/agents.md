@@ -101,3 +101,4 @@ Output files are written to the working directory.
 - generate-an-xml-formatted-timeline-output-that-accurately-represents-chronologic.cs
 - generate-a-chronological-timeline-representation-of-data-and-serialize-it-into-a.cs
 - render-the-project-timeline-as-a-numbers-spreadsheet-preserving-date-ordering-an.cs
+- generate-a-timeline-output-in-the-sxc-format-for-the-given-dataset-ensuring-corr.cs
