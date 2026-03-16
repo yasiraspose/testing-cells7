@@ -62,3 +62,4 @@ Output files are written to the working directory.
 - add-a-timeline-to-an-xlsm-workbook-programmatically-ensuring-proper-formatting-a.cs
 - add-a-timeline-to-a-worksheet-by-loading-and-inserting-an-xltx-template-file.cs
 - add-a-timeline-visual-to-an-xlsb-workbook-configuring-its-fields-and-data-connec.cs
+- add-a-timeline-to-a-spreadsheet-by-generating-an-ods-file-with-appropriate-chart.cs
