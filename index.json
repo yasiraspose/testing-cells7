@@ -166,6 +166,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-and-output-a-timeline-as-an-xltm-template-file-preserving-all-formattin.cs",
+      "title": "Generate and output a timeline as an XLTM template file, preserving all formatting and data."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-chart-into-the-workbook-by-importing-data-from-a-dif-file.cs",
       "title": "Insert a timeline chart into the workbook by importing data from a DIF file."
     },
