@@ -121,6 +121,11 @@
     },
     {
       "category": "timeline",
+      "file": "insert-a-timeline-chart-into-the-workbook-by-importing-data-from-a-dif-file.cs",
+      "title": "Insert a timeline chart into the workbook by importing data from a DIF file."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-a-document-using-a-plaintext-txt-file-as-the-data-source.cs",
       "title": "Insert a timeline into a document using a plain\u2011text (TXT) file as the data source."
     },
