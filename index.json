@@ -61,6 +61,11 @@
     },
     {
       "category": "timeline",
+      "file": "add-a-timeline-to-an-xlsm-workbook-programmatically-ensuring-proper-formatting-a.cs",
+      "title": "Add a timeline to an XLSM workbook programmatically, ensuring proper formatting and macro compatibility."
+    },
+    {
+      "category": "timeline",
       "file": "create-and-embed-a-timeline-into-an-xlsx-workbook-using-appropriate-worksheet-st.cs",
       "title": "Create and embed a timeline into an XLSX workbook using appropriate worksheet structures and formatting."
     }
