@@ -96,6 +96,11 @@
     },
     {
       "category": "timeline",
+      "file": "embed-a-timeline-into-a-document-by-importing-mhtmlformatted-content-preserving-.cs",
+      "title": "Embed a timeline into a document by importing MHTML\u2011formatted content, preserving layout and interactivity."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-a-document-using-a-plaintext-txt-file-as-the-data-source.cs",
       "title": "Insert a timeline into a document using a plain\u2011text (TXT) file as the data source."
     },
