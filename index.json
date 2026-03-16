@@ -61,6 +61,11 @@
     },
     {
       "category": "timeline",
+      "file": "add-a-timeline-element-to-a-document-by-importing-data-in-the-fods-file-format.cs",
+      "title": "Add a timeline element to a document by importing data in the FODS file format."
+    },
+    {
+      "category": "timeline",
       "file": "add-a-timeline-to-a-spreadsheet-by-generating-an-ods-file-with-appropriate-chart.cs",
       "title": "Add a timeline to a spreadsheet by generating an ODS file with appropriate chart data and formatting."
     },
