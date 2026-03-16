@@ -86,6 +86,11 @@
     },
     {
       "category": "timeline",
+      "file": "add-a-timeline-visualization-to-a-spreadsheet-by-programmatically-inserting-it-i.cs",
+      "title": "Add a timeline visualization to a spreadsheet by programmatically inserting it in SXC format."
+    },
+    {
+      "category": "timeline",
       "file": "create-a-timeline-in-a-worksheet-by-importing-data-formatted-as-tab-delimited-te.cs",
       "title": "Create a timeline in a worksheet by importing data formatted as TAB-delimited text file."
     },
