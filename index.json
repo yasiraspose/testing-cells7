@@ -116,6 +116,11 @@
     },
     {
       "category": "timeline",
+      "file": "insert-a-timeline-into-a-worksheet-employing-the-numbers-format-while-maintainin.cs",
+      "title": "Insert a timeline into a worksheet employing the NUMBERS format while maintaining existing data integrity."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-a-worksheet-utilizing-tsv-formatted-data-to-define-events.cs",
       "title": "Insert a timeline into a worksheet utilizing TSV-formatted data to define events and timestamps."
     },
