@@ -58,3 +58,4 @@ Examples may generate:
 
 Output files are written to the working directory.
 - add-a-timeline-chart-to-an-existing-xls-worksheet-enabling-dynamic-datebased-dat.cs
+- create-and-embed-a-timeline-into-an-xlsx-workbook-using-appropriate-worksheet-st.cs
