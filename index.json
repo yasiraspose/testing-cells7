@@ -166,6 +166,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-a-plaintext-timeline-representation-of-data-and-write-it-to-a-txt-file-.cs",
+      "title": "Generate a plain\u2011text timeline representation of data and write it to a TXT file for consumption."
+    },
+    {
+      "category": "timeline",
       "file": "generate-a-timeline-output-serialized-in-tabseparated-values-tsv-format-for-cons.cs",
       "title": "Generate a timeline output serialized in tab\u2011separated values (TSV) format for consumption by downstream processes."
     },
