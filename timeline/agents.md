@@ -82,3 +82,4 @@ Output files are written to the working directory.
 - insert-a-timeline-into-the-worksheet-by-programmatically-providing-its-definitio.cs
 - add-a-sparkline-chart-to-an-xls-workbook-programmatically-ensuring-proper-cell-r.cs
 - add-a-sparkline-to-an-xlsx-workbook-configuring-its-data-range-and-visual-proper.cs
+- add-a-sparkline-to-an-xlsm-workbook-ensuring-proper-macro-enabled-compatibility-.cs
