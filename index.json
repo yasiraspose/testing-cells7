@@ -208,6 +208,11 @@
       "category": "timeline",
       "file": "insert-a-timeline-into-the-worksheet-by-programmatically-providing-its-definitio.cs",
       "title": "Insert a timeline into the worksheet by programmatically providing its definition in JSON format."
+    },
+    {
+      "category": "timeline",
+      "file": "render-a-project-timeline-and-output-it-as-an-xltx-formatted-excel-workbook-temp.cs",
+      "title": "Render a project timeline and output it as an XLTX formatted Excel workbook template."
     }
   ]
 }
