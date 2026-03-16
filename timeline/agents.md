@@ -71,3 +71,4 @@ Output files are written to the working directory.
 - embed-a-timeline-into-a-document-by-generating-and-inserting-an-mht-file-with-ap.cs
 - embed-a-timeline-into-a-document-by-importing-mhtmlformatted-content-preserving-.cs
 - embed-a-timeline-into-the-spreadsheet-by-parsing-and-applying-an-xml-formatted-d.cs
+- add-a-timeline-to-a-workbook-by-embedding-spreadsheetml-markup-adhering-to-the-a.cs
