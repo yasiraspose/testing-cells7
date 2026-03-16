@@ -166,6 +166,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-a-chronological-timeline-and-output-it-as-a-dbf-file-for-subsequent-dat.cs",
+      "title": "Generate a chronological timeline and output it as a DBF file for subsequent data processing."
+    },
+    {
+      "category": "timeline",
       "file": "generate-a-chronological-timeline-representation-of-data-and-serialize-it-into-a.cs",
       "title": "Generate a chronological timeline representation of data and serialize it into a SpreadsheetML formatted document."
     },
