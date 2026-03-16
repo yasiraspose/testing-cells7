@@ -86,6 +86,11 @@
     },
     {
       "category": "timeline",
+      "file": "insert-a-timeline-into-a-worksheet-utilizing-tsv-formatted-data-to-define-events.cs",
+      "title": "Insert a timeline into a worksheet utilizing TSV-formatted data to define events and timestamps."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-the-worksheet-by-importing-data-from-a-properly-formatted.cs",
       "title": "Insert a timeline into the worksheet by importing data from a properly formatted CSV file."
     }
