@@ -66,3 +66,4 @@ Output files are written to the working directory.
 - insert-a-timeline-into-the-worksheet-by-importing-data-from-a-properly-formatted.cs
 - insert-a-timeline-into-a-worksheet-utilizing-tsv-formatted-data-to-define-events.cs
 - insert-a-timeline-into-a-document-using-a-plaintext-txt-file-as-the-data-source.cs
+- create-a-timeline-in-a-worksheet-by-importing-data-formatted-as-tab-delimited-te.cs
