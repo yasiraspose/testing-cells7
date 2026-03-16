@@ -101,6 +101,11 @@
     },
     {
       "category": "timeline",
+      "file": "insert-a-timeline-into-the-spreadsheet-using-html-formatted-markup-ensuring-prop.cs",
+      "title": "Insert a timeline into the spreadsheet using HTML-formatted markup, ensuring proper rendering and cross\u2011platform display."
+    },
+    {
+      "category": "timeline",
       "file": "insert-a-timeline-into-the-worksheet-by-importing-data-from-a-properly-formatted.cs",
       "title": "Insert a timeline into the worksheet by importing data from a properly formatted CSV file."
     }
