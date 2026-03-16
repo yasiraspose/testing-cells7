@@ -181,6 +181,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-a-prn-formatted-printout-of-the-timeline-data-while-preserving-layout-f.cs",
+      "title": "Generate a PRN-formatted printout of the timeline data while preserving layout, formatting, and pagination."
+    },
+    {
+      "category": "timeline",
       "file": "generate-a-timeline-output-in-dif-format-for-the-specified-data-set-preserving-c.cs",
       "title": "Generate a timeline output in DIF format for the specified data set, preserving cell hierarchy and timestamps."
     },
