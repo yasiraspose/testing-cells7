@@ -11,6 +11,11 @@
     },
     {
       "category": "comments-and-notes",
+      "file": "remove-threaded-comments-using-asposecells-in-a-workbook-loaded-in-xlsx-format.cs",
+      "title": "Remove Threaded Comments using Aspose.Cells in a workbook loaded in XLSX format."
+    },
+    {
+      "category": "comments-and-notes",
       "file": "remove-threaded-comments-with-excel-in-a-workbook-loaded-in-xlsx-format.cs",
       "title": "Remove Threaded Comments with Excel in a workbook loaded in XLSX format."
     },
