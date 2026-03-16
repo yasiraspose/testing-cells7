@@ -31,6 +31,11 @@
     },
     {
       "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-exploring-possible-usage-scenarios-for-formulalocal-loca.cs",
+      "title": "Localize spreadsheet by exploring possible usage scenarios for FormulaLocal localization using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
       "file": "localize-spreadsheet-by-implementing-cellformulalocal-similar-to-excel-vba-range.cs",
       "title": "Localize spreadsheet by implementing Cell.FormulaLocal similar to Excel VBA Range.FormulaLocal using a workbook loaded in XLSX format."
     }
