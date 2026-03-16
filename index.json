@@ -176,6 +176,11 @@
     },
     {
       "category": "timeline",
+      "file": "generate-a-timeline-output-in-dif-format-for-the-specified-data-set-preserving-c.cs",
+      "title": "Generate a timeline output in DIF format for the specified data set, preserving cell hierarchy and timestamps."
+    },
+    {
+      "category": "timeline",
       "file": "generate-a-timeline-output-in-the-sxc-format-for-the-given-dataset-ensuring-corr.cs",
       "title": "Generate a timeline output in the SXC format for the given dataset, ensuring correct structure and encoding."
     },
