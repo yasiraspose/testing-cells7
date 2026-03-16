@@ -61,6 +61,11 @@
     },
     {
       "category": "timeline",
+      "file": "add-a-timeline-to-a-worksheet-by-loading-and-inserting-an-xltx-template-file.cs",
+      "title": "Add a timeline to a worksheet by loading and inserting an XLTX template file."
+    },
+    {
+      "category": "timeline",
       "file": "add-a-timeline-to-an-xlsm-workbook-programmatically-ensuring-proper-formatting-a.cs",
       "title": "Add a timeline to an XLSM workbook programmatically, ensuring proper formatting and macro compatibility."
     },
