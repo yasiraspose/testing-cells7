@@ -26,6 +26,11 @@
     },
     {
       "category": "conversion",
+      "file": "convert-an-excel-workbook-to-json-using-xlsx-as-the-input-and-json-as-the-output.cs",
+      "title": "Convert an Excel workbook to JSON using XLSX as the input and JSON as the output."
+    },
+    {
+      "category": "conversion",
       "file": "convert-an-excel-workbook-to-mhtml-using-xlsx-as-the-input-and-mhtml-as-the-outp.cs",
       "title": "Convert an Excel workbook to MHTML using XLSX as the input and MHTML as the output."
     },
