@@ -15,6 +15,11 @@
       "title": "Retrieve or manipulate individual cells within an XLSX worksheet programmatically via the .NET API."
     },
     {
+      "category": "cells-data",
+      "file": "retrieve-the-worksheets-full-display-range-from-an-xlsx-file-returning-the-maxim.cs",
+      "title": "Retrieve the worksheet's full display range from an XLSX file, returning the maximal cell boundaries."
+    },
+    {
       "category": "comments-and-notes",
       "file": "remove-threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs",
       "title": "Remove Threaded Comments in a workbook loaded in XLSX format."
