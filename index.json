@@ -21,6 +21,11 @@
     },
     {
       "category": "conversion",
+      "file": "convert-an-excel-workbook-to-mhtml-using-xlsx-as-the-input-and-mhtml-as-the-outp.cs",
+      "title": "Convert an Excel workbook to MHTML using XLSX as the input and MHTML as the output."
+    },
+    {
+      "category": "conversion",
       "file": "convert-an-excel-workbook-to-ods-sxc-and-fods-using-xlsx-as-the-input-and-ods-sx.cs",
       "title": "Convert an Excel workbook to ODS, SXC, and FODS using XLSX as the input and ODS, SXC, FODS as the output."
     },
